@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Perencanaan Keuangan Keluarga",
+  "description": "Aplikasi kalkulator perencanaan keuangan berbasis Time Value of Money (TVM) untuk proteksi penghasilan (UP), dana pendidikan anak, dana pensiun, dan tujuan khusus keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
